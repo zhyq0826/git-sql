@@ -1,0 +1,11 @@
+{
+    "blog": {
+        "host": "127.0.0.1",
+        "db": "blog",
+        "user": "root",
+        "passwd":"",
+        "port": 3306,
+        "echo": true,
+        "pool_size": 10
+    }
+}
